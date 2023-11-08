@@ -1,6 +1,6 @@
 # Hello, I'm Marc García Coronado 👋
 
-I'm a student passionate about programming and technology. Welcome to my GitHub profile!
+I'm a student passionate about programming and technology, with a strong focus on backend development. Welcome to my GitHub profile!
 
 - 🌱 I'm currently learning web development and software engineering.
 - 💼 Looking for internship opportunities.
